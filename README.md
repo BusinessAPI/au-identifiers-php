@@ -1,4 +1,4 @@
-# au-identifiers
+# Australian ABN, ACN and TFN Validation for PHP
 
 Validate and format Australian identifiers in PHP: ABN, ACN, ARBN, TFN, Director ID and VIN.
 
